@@ -1,6 +1,6 @@
 # Wi-Fi FTM RSSI Localization dataset
 
-![Alt text](https://ieee-dataport.org/sites/default/files/DatasetB-1.png)
+![Localization Map](DatasetB.png)
 
 
 
