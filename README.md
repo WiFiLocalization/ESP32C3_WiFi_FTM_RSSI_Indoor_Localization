@@ -23,6 +23,9 @@ Each folder contains a training dataset and a testing dataset that is independen
 
 Router Time is synchronized using chrony
 
+Mirror:
+
+https://zenodo.org/records/10883013
  
 # Dataset is in CSV format
 
