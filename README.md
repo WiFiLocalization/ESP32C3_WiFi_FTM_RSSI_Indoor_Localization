@@ -38,4 +38,20 @@ Map is in ROS2 PGM format that can read by ROS2 programs
 Data for the paper
  
 Wi-Fi and Bluetooth Contact Tracing Without User Intervention
+
 https://ieeexplore.ieee.org/document/9866766
+
+# Please Cite As
+
+```
+@article{yuen2022wi,
+  title={Wi-Fi and Bluetooth contact tracing without user intervention},
+  author={Yuen, Brosnan and Bie, Yifeng and Cairns, Duncan and Harper, Geoffrey and Xu, Jason and Chang, Charles and Dong, Xiaodai and Lu, Tao},
+  journal={IEEE Access},
+  volume={10},
+  pages={91027--91044},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
